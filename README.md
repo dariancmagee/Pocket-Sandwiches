@@ -15,7 +15,7 @@ The results pages features all of the restaurants that fit the search criteria, 
 
 Technologies Used:
 
-- JavaScript, EJS, CSS, Bootstap, PostgreSQL, Express.js, Sequelize
+- JavaScript, EJS, CSS, Bootstrap, PostgreSQL, Express.js, Sequelize
 
 Other Dev Tools and models:
 - Axios, bcrypt, cookie-parser, jsonwebtoken, pg, ElephantSQL
