@@ -20,6 +20,10 @@ Technologies Used:
 Other Dev Tools and models:
 - Axios, bcrypt, cookie-parser, jsonwebtoken, pg, ElephantSQL
 
+Deployed App:
+
+https://pocket-sandwich-magee.herokuapp.com/restaurants
+
 API:
 
 https://www.yelp.com/developers/documentation/v3/get_started 
